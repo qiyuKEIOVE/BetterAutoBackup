@@ -12,7 +12,7 @@
 - Authors: [qiyuKEIOVE](https://github.com/qiyuKEIOVE)
 - Readme maintenance: [LIPiston](https://github.com/LIPiston)
 - Repository: https://github.com/Minecraft-TecoCraft-server/TranslateR
-- Description: A plugin that can translate Chinese and other languages in real-time within the game.
+- Description: none
 
 
 ### MCDR version requirements
